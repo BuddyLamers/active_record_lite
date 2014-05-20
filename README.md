@@ -1,0 +1,1 @@
+This is an excersise in ruby metaprogramming. The goal was to create a simplistic version of Rails' Active Record.
